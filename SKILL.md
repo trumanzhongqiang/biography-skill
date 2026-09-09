@@ -1,7 +1,7 @@
 ---
 name: biography-skill
 description: "帮助普通人写个人传记：访谈式采集回忆、自动整理时间线、章节化成稿。触发词：'启动个人传记'、'个人传记'、'帮我写传记'、相关自然语言请求。"
-version: 1.0.0
+version: 1.1.0
 allowed-tools: Bash, Read, Write, Edit
 compatibility: Windows/macOS/Linux. Requires WorkBuddy.
 metadata:
@@ -19,4 +19,4 @@ metadata:
 3. 跟随 AI 的提问聊天式回忆，素材自动归档到本地工作目录。
 4. 任何时候都可以说「今天就到这里」，下次随时续写；说「整理成稿」即可开始章节化写作。
 
-完整执行指令见 `skill/biography-skill/SKILL.md`，访谈问题库与章节模板见 `skill/biography-skill/references/`。
+完整执行指令见 `skill/biography-skill/SKILL.md`，访谈问题库与章节模板见 `skill/biography-skill/references/`，发布前质检四查（事实可溯/文风一致/文字清晰/节奏）清单见 `skill/biography-skill/references/quality-checklist.md`。

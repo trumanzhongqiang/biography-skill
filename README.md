@@ -50,7 +50,8 @@ biography-skill/
         ├── SKILL.md              # 核心执行指令（AI 的工作流）
         └── references/
             ├── interview-questions.md  # 访谈问题库（七大主题 + 追问技巧）
-            └── chapter-templates.md    # 章节结构模板（八章结构 + 文风规范）
+            ├── chapter-templates.md    # 章节结构模板（八章结构 + 文风规范）
+            └── quality-checklist.md    # 发布前质检四查（事实可溯/文风一致/文字清晰/节奏）
 ```
 
 ## License
