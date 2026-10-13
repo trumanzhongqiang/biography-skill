@@ -1,7 +1,7 @@
 ---
 name: biography-skill
-description: "帮助普通人写个人传记：访谈式采集回忆、自动整理时间线、章节化成稿。触发词：'启动个人传记'、'个人传记'、'帮我写传记'、相关自然语言请求。"
-version: 1.1.0
+description: "帮助普通人写个人传记：访谈式采集回忆、自动整理时间线、章节化成稿。触发词：'启动个人传记'、'个人传记'、'帮我写传记'、'写我的自传'、'记录我的一生'，及相关自然语言请求。"
+version: 1.2.0
 allowed-tools: Bash, Read, Write, Edit
 compatibility: Windows/macOS/Linux. Requires WorkBuddy.
 metadata:
